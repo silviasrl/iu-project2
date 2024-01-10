@@ -9,7 +9,7 @@ This tool was designed to assist in cultivating positive routines and reaching p
 * View predefined habits.
 * Remove or delete habits.
 
-![UML Diagram](https://drive.google.com/file/d/1kLGJMFwZXl7avOIIDKrMqQOJEzLoD-1G/view?usp=sharing)
+![UML Diagram](https://github.com/silviasrl/iu-project2/blob/master/Class%20Diagram%20Habit%20Tracking%20App.jpg)
 ## How to start 
 Before to start make sure that you have Python 3.9+ on your device or you can download it: https://www.python.org/downloads/
 #### Important packages: 
